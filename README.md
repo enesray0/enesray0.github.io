@@ -10,7 +10,7 @@
             <br>
             <br>&gt; Yenilenme Zamanı
             <br>&gt; Çok Yakında Sizlerleyiz
-            <br> &gt; www.onurayyildiz.com/ <span id="imlec">█</span>
+           █</span>
         </div>
     </div>
 </body>
